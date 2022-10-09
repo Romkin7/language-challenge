@@ -1,0 +1,21 @@
+{
+  "name": "language-detection-challenge",
+  "version": "1.0.0",
+  "description": "Language detection challenge solution",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "author": "Roman Tuomisto",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "1.4.0",
+    "franc": "5.0.0",
+    "langs": "2.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "2.0.20"
+  }
+}
